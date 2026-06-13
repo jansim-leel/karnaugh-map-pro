@@ -1,4 +1,4 @@
-import KarnaughMapApp from "./karnaugh-map-pro-v4p0";
+import KarnaughMapApp from "./karnaugh-map-pro-v6p0";
 
 function App() {
   return <KarnaughMapApp />;
